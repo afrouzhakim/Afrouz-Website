@@ -59,3 +59,8 @@
     min-width: 10em;
     transition: all 0.25s ease;
 }
+.paragraph {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: larger;
+}
